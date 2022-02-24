@@ -80,3 +80,39 @@ useCollectProps
 useConnectDropSource
 TargetConnector ~ receiveDropTarget
 
+
+
+# 说明
+
+![](F:\ts\my-react-dnd\pictures\dnd1.JPG)
+
+
+
+![dnd2](F:\ts\my-react-dnd\pictures\dnd2.JPG)
+
+
+
+![dnd3](F:\ts\my-react-dnd\pictures\dnd3.JPG)
+
+
+
+![dnd4](F:\ts\my-react-dnd\pictures\dnd4.JPG)
+
+
+
+![dnd5](F:\ts\my-react-dnd\pictures\dnd5.JPG)
+
+
+
+![dnd6](F:\ts\my-react-dnd\pictures\dnd6.JPG)
+
+
+
+![dnd7](F:\ts\my-react-dnd\pictures\dnd7.JPG)
+
+
+
+
+
+![reactdnd2_1635074386436](F:\ts\my-react-dnd\pictures\reactdnd2_1635074386436.png)
+
